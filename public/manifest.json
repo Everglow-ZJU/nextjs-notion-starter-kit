@@ -2,7 +2,12 @@
   "name": "Transitive Bullshit",
   "short_name": "Transitive BS",
   "icons": [
-    {
+     {
+      "src": "/1f433.png",
+      "type": "image/png",
+      "sizes": "151x138"
+    }
+   /* {
       "src": "/favicon-16x16.png",
       "type": "image/png",
       "sizes": "16x16"
@@ -31,7 +36,7 @@
       "src": "/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
-    }
+    }*/
   ],
   "theme_color": "#F898B9",
   "background_color": "#ffffff",
